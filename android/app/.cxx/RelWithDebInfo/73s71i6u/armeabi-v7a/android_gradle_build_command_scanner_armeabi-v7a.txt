@@ -1,0 +1,7 @@
+Executable : C:\Users\Marco\AppData\Local\Android\sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Marco\AndroidStudioProjects\scanner_api_example\android\app\.cxx\RelWithDebInfo\73s71i6u\armeabi-v7a
+scanner
+jvmArgs : 
+

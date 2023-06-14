@@ -1,0 +1,23 @@
+                    Executable : C:\Users\Marco\AppData\Local\Android\sdk\cmake\3.18.1\bin\cmake.exe
+arguments : 
+-HC:\Users\Marco\AndroidStudioProjects\scanner_api_example\src\scanner
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=C:\Users\Marco\AppData\Local\Android\sdk\ndk\23.1.7779620
+-DCMAKE_ANDROID_NDK=C:\Users\Marco\AppData\Local\Android\sdk\ndk\23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\Marco\AppData\Local\Android\sdk\ndk\23.1.7779620\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\Marco\AppData\Local\Android\sdk\cmake\3.18.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\Marco\AndroidStudioProjects\scanner_api_example\build\app\intermediates\cxx\Debug\38mb264a\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\Marco\AndroidStudioProjects\scanner_api_example\build\app\intermediates\cxx\Debug\38mb264a\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\Marco\AndroidStudioProjects\scanner_api_example\android\app\.cxx\Debug\38mb264a\armeabi-v7a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

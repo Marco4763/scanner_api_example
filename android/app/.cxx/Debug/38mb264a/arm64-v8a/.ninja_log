@@ -1,0 +1,7 @@
+# ninja log v5
+1	1230	708449595	CMakeFiles/scanner.dir/scanner.c.o	4007c1de3b95cfef
+1234	1392	708449595	C:/Users/Marco/AndroidStudioProjects/scanner_api_example/build/app/intermediates/cxx/Debug/38mb264a/obj/arm64-v8a/libscanner.so	acea6a0e7379c3cd
+4	210	708451891	CMakeFiles/scanner.dir/scanner.c.o	4007c1de3b95cfef
+211	339	708451891	C:/Users/Marco/AndroidStudioProjects/scanner_api_example/build/app/intermediates/cxx/Debug/38mb264a/obj/arm64-v8a/libscanner.so	acea6a0e7379c3cd
+1	158	708452400	CMakeFiles/scanner.dir/scanner.c.o	4007c1de3b95cfef
+158	243	708452400	C:/Users/Marco/AndroidStudioProjects/scanner_api_example/build/app/intermediates/cxx/Debug/38mb264a/obj/arm64-v8a/libscanner.so	acea6a0e7379c3cd
